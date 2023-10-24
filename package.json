@@ -1,6 +1,6 @@
 {
   "name": "@ced2023/sox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/Main",
   "author": "Seunghoon Lee",
   "license": "MIT",
