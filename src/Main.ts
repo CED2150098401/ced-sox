@@ -1,3 +1,3 @@
 export { AudioEncoding } from "./enums/AudioEncoding";
 export { AudioFormat } from "./enums/AudioFormat";
-export { SoX } from "./SoX";
+export { AudioDevice, SoXError, SoXOptions, SoX } from "./SoX";
