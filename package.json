@@ -1,6 +1,6 @@
 {
   "name": "@ced2023/sox",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "dist/Main",
   "author": "Seunghoon Lee",
   "license": "MIT",
@@ -14,7 +14,7 @@
   },
   "types": "./dist/Main.d.ts",
   "dependencies": {
-    "@ced2023/process": "^0.1.1",
+    "@ced2023/process": "^0.1.2",
     "undici-types": "^5.25.3"
   },
   "repository": {

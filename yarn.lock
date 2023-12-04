@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ced2023/process@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@ced2023/process/-/process-0.1.1.tgz#fd280a4e3b954314f2869c03a1a40dd2d332dfd0"
-  integrity sha512-NzbzFf1XyS+knYpIv2DO/NnP5YodlD2NSKZxWGt1WJ7XfPc2KWKXEoJEJN6rwRyQHKHy/tTqo/v0tVp0cRHzgQ==
+"@ced2023/process@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@ced2023/process/-/process-0.1.2.tgz#3cc3e9e9249aaa7161779bb970193860763191e7"
+  integrity sha512-gIRz4RwgrUxWjr3CRIIQ8KKE3U+mOzWBvVBmkyUHvKMDWfKJF/rjq58Gi5TU6HL+r46XFRMXoJoRAmwTRE7/Cw==
   dependencies:
     undici-types "^5.25.3"
 
